@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrace-sun
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning git and github
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Micro-bit_Spacecraft_Game
 - 📫 How to reach me chrace_sun@qq.com
 
 <!---
